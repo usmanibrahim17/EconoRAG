@@ -1,0 +1,22 @@
+# Core Dependencies
+python-dotenv==1.0.1
+gradio==4.44.0
+
+# LangChain Core + Community Modules
+langchain==0.2.16
+langchain-community==0.2.12
+langchain-core==0.2.39
+langchain-openai==0.1.22
+
+# Vector Store
+chromadb==0.5.5
+
+# Text Processing
+tiktoken==0.7.0
+
+# Utilities
+numpy==1.26.4
+pandas==2.2.2
+
+# Optional (for Jupyter Notebook users)
+ipykernel==6.29.5
